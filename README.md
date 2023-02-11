@@ -1,17 +1,19 @@
-# Nome do meu projeto
+# Agenda em Django
 
-Rápida descrição do objetivo de fazer esse projeto
+Um sistema de Agenda de Telefone que guarde as informações dos contatos dos usuários. 
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Agenda de Telefone em Django**
+| :label: Tecnologias | python, djnago, html, css (tecnologias utilizadas)
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](img/img_main_001.png)
+<!-- ![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev) -->
 
 ## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+<!-- Imagem do Projeto  -->
+<!-- Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc... -->
+* <p>No primeiro modulo começamos criando o projeto e o organizando de acordo com os padrões de convenção do Django.
+    Foram Incluídas <italic>partials</italic> para melhor entendimento do projeto.
+</p> 
